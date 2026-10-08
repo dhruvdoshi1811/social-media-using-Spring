@@ -1,1 +1,1 @@
-for me the understand jpa entities better
+for me to understand jpa entities better
